@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OLYA/static/css/main.073c9b0a.css",
+    "main.js": "/OLYA/static/js/main.08d321a9.js",
+    "static/js/787.23c2b543.chunk.js": "/OLYA/static/js/787.23c2b543.chunk.js",
+    "index.html": "/OLYA/index.html",
+    "main.073c9b0a.css.map": "/OLYA/static/css/main.073c9b0a.css.map",
+    "main.08d321a9.js.map": "/OLYA/static/js/main.08d321a9.js.map",
+    "787.23c2b543.chunk.js.map": "/OLYA/static/js/787.23c2b543.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.08d321a9.js"
+  ]
+}
